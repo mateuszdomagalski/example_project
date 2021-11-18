@@ -37,6 +37,9 @@ The above functionalities are tested and work according to their roles.
 > The code contained in the project, does not contain malware and is safe to use. 
 > I am personally responsible for its operation: Jan Kowalski.
 
+## Entity Relationship Diagram
+
+[link to diagram in jpg][erd]
 
 ## Cpecific functionalities
 
@@ -59,3 +62,4 @@ Dillinger uses a number of open source projects to work properly:
 - [MySql/MariaDb]
 - [Apache]
 
+ [erd]: <https://github.com/joemccann/dillinger>
